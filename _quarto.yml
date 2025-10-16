@@ -54,7 +54,7 @@ website:
         text: "Poster"
         target: _blank
       - icon: file-earmark-slides
-        href: https://talks.pingfanhu.com/slides/2025_dqe/
+        href: https://pingfan-hu.github.io/2025-dqe-smart-charging/#/title-slide
         text: "Slides"
         target: _blank
       - icon: calculator
