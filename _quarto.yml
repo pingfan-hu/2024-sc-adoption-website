@@ -4,6 +4,7 @@ project:
   type: website
   resources:
     - pdf/
+    - files/
 
 format:
   html:
